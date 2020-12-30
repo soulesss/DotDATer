@@ -5,7 +5,7 @@ Simple Python program for reading/writing .dat files.
 Program will output all data on screen and in .txt file.
 
 - Upload data from .txt to .dat \
-New line - new element.
+New line - new element (only for string).
 
 - Config \
 !!! Work in progress!!! 
