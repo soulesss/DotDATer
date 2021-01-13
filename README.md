@@ -12,7 +12,7 @@ Select from Sting, Integer, Float, List.
 
 # How to run
 You need to install Python 3.x on your PC.
-Andrew run .py script
+Then run .py script. If you want to read .dat file, copy it to script's directory.
 
 
 
