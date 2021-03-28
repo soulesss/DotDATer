@@ -1,4 +1,4 @@
-# DotDATer
+# DotDATer (Finale version - 1.2)
 Simple Python program for reading/writing .dat files. 
 
 - Reading \
