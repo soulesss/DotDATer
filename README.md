@@ -1,5 +1,5 @@
 # DotDATer (Finale version - 1.2)
-Simple Python program for reading/writing .dat files. 
+Simple Python script for reading/writing .dat files. 
 
 - Reading \
 Program will output all data on screen and in .txt file (original_file_name.txt).
